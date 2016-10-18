@@ -19,7 +19,7 @@ Link de Página
  
  Link com referências
  
- O [link][1] e o [link][2] estão abaixo:
+ O [link][1] e o [link][2] estão com referências.
  
  [1]: http://g1.com "Site do G1"
  [2]: http://r7.com "Site do R7"
